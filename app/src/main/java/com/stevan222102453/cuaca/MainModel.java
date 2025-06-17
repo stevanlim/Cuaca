@@ -1,7 +1,7 @@
 package com.stevan222102453.cuaca;
 
 
-public class MainModel {
+public class  MainModel {
     private double temp_min;
     private double temp_max;
 
